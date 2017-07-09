@@ -10,7 +10,7 @@
 (req-package go-mode
   :ensure t)
 
-(req-package go=autocomplete
+(req-package go-autocomplete
   :require auto-complete)
 
 (provide 'init-go)
