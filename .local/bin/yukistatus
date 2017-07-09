@@ -38,7 +38,7 @@ status.register("network",
                 format_up=" {essid} {quality}% {v4}",
                 format_down="",
                 hints=common_hints,
-                interface="wlan1")
+                interface="wlan0")
 
 status.register("alsa",
                 format="{muted} {volume}%",
