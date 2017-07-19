@@ -84,7 +84,7 @@ floating_modifier $mod
 bindsym $mod+Shift+c restart
 
 # exit i3
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'End this amazing session?' -b 'Yes, absolutely' 'i3-msg exit'"
+bindsym $mod+Shift+e exit
 
 # Moving around
 # -------------
