@@ -51,7 +51,7 @@ exec --no-startup-id xscreensaver -no-splash
 exec --no-startup-id xfce4-power-manager
 
 # Set wallpaper
-exec_always --no-startup-id feh --bg-fill ~/.wallpaper.png
+exec_always --no-startup-id feh --bg-fill ~/.wallpaper.jpg
 
 # Key bindings
 # ============
