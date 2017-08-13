@@ -1,0 +1,3 @@
+[submodule ".emacs.d/sensible-defaults"]
+	path = .emacs.d/sensible-defaults
+	url = https://github.com/hrs/sensible-defaults.el.git
